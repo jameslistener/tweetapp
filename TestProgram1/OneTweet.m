@@ -10,28 +10,28 @@
 
 @implementation OneTweet
 + (id) tweet {
-    return [[OneTweet alloc] initWithData:nil date:nil text:nil authorID:nil];
+    return [[OneTweet alloc] init];
 }
 
 + (id) tweetWithData : (NSNumber *)tID
                 date : (NSDate *) tDate
                 text : (NSString *) tText
-            authorID : (NSNumber *) aID {
-    return [[OneTweet alloc] initWithData:tID date:tDate text:tText authorID:aID];
+              author : (User *) a {
+    return [[OneTweet alloc] initWithData:tID date:tDate text:tText author:a];
 }
 
 - (id) init {
-    return self = [[OneTweet alloc] initWithData:nil date:nil text:nil authorID:nil];
+    return self = [[OneTweet alloc] initWithData:nil date:nil text:nil author:nil];
 }
 
 - (id) initWithData : (NSNumber *)tID
                date : (NSDate *) tDate
                text : (NSString *) tText
-           authorID : (NSNumber *) aID {
+             author : (User *) a {
     self.tweetID = tID;
     self.date = tDate;
     self.text = tText;
-    self.authorID = aID;
+    self.author = a;
     return self;
 }
 @end

@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "OneTweet.h"
 
 @interface Tweets : NSObject
 @property (strong, nonatomic) NSArray *tweetArray;
@@ -14,4 +15,5 @@
 - (id) init;
 - (id) initWithTweets : (NSArray *)newTweets;
 - (void) updateTweets;
+- (OneTweet *) getTweet : (int) tweetN;
 @end

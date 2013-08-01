@@ -13,73 +13,73 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Kiq-xA-PoW">
-                                <rect key="frame" x="111" y="0.0" width="98" height="44"/>
+                                <rect key="frame" x="111" y="6" width="98" height="44"/>
                                 <fontDescription key="fontDescription" name="Optima-ExtraBlack" family="Optima" pointSize="15"/>
                                 <state key="normal" title="Update">
                                     <color key="titleColor" red="0.93792459239130432" green="0.72680298136823329" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="updateMessage:" destination="2" eventType="touchDown" id="dEe-7y-FfF"/>
+                                    <action selector="updateTweets:" destination="2" eventType="touchDown" id="C5V-bm-Bcf"/>
                                 </connections>
                             </button>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Tweets (0) :" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Qcc-NN-YBG">
-                                <rect key="frame" x="69" y="51" width="183" height="30"/>
+                                <rect key="frame" x="69" y="57" width="183" height="30"/>
                                 <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="21"/>
                                 <color key="textColor" red="0.0" green="0.13331220737507765" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Author:" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="IJ0-qG-PN0">
-                                <rect key="frame" x="24" y="95" width="62" height="21"/>
+                                <rect key="frame" x="24" y="101" width="62" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-Italic" family="Palatino" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Text:" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="N8u-vg-akR">
-                                <rect key="frame" x="44" y="131" width="42" height="21"/>
+                                <rect key="frame" x="44" y="137" width="42" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-Italic" family="Palatino" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Published:" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="mwj-Qh-q4X">
-                                <rect key="frame" x="0.0" y="165" width="86" height="21"/>
+                                <rect key="frame" x="0.0" y="171" width="86" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-Italic" family="Palatino" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="TweetID:" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="sUu-qZ-PQh">
-                                <rect key="frame" x="10" y="199" width="76" height="21"/>
+                                <rect key="frame" x="10" y="205" width="76" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-Italic" family="Palatino" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Unkown" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Afd-nW-99U">
-                                <rect key="frame" x="94" y="95" width="206" height="21"/>
+                                <rect key="frame" x="94" y="101" width="206" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Uknown" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Epm-Ud-oy0">
-                                <rect key="frame" x="94" y="131" width="206" height="21"/>
+                                <rect key="frame" x="94" y="137" width="206" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Uknown" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="G93-eY-wk3">
-                                <rect key="frame" x="94" y="165" width="206" height="21"/>
+                                <rect key="frame" x="94" y="171" width="206" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Uknown" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="RPD-xJ-tB7">
-                                <rect key="frame" x="94" y="199" width="206" height="21"/>
+                                <rect key="frame" x="94" y="205" width="206" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -89,6 +89,10 @@
                         <color key="backgroundColor" red="0.74443426866280826" green="0.90061279863590382" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <connections>
+                        <outlet property="tweetAuthor" destination="Afd-nW-99U" id="OAA-Fo-Bpg"/>
+                        <outlet property="tweetID" destination="RPD-xJ-tB7" id="Xzs-lm-pUe"/>
+                        <outlet property="tweetPublished" destination="G93-eY-wk3" id="YPZ-Dt-kpq"/>
+                        <outlet property="tweetText" destination="Epm-Ud-oy0" id="fEc-Su-8JU"/>
                         <outlet property="tweetsNumber" destination="Qcc-NN-YBG" id="JAB-GL-8FR"/>
                     </connections>
                 </viewController>
@@ -101,8 +105,11 @@
         <class className="ViewController" superclassName="UIViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController.h"/>
             <relationships>
-                <relationship kind="action" name="updateMessage:" candidateClass="UIButton"/>
                 <relationship kind="action" name="updateTweets:" candidateClass="UIButton"/>
+                <relationship kind="outlet" name="tweetAuthor" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="tweetID" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="tweetPublished" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="tweetText" candidateClass="UILabel"/>
                 <relationship kind="outlet" name="tweetsNumber" candidateClass="UILabel"/>
             </relationships>
         </class>

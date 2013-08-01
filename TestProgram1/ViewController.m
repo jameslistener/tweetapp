@@ -34,7 +34,11 @@
 - (IBAction)updateTweets: (UIButton *)sender {
     [self.tweetList updateTweets];
     self.tweetsNumber.text = [NSString stringWithFormat: @"Tweets (%d) :", self.tweetList.count];
-    self.tweetAuthor.text = [NSString stringWithFormat: @"author with ID %@", self.tweetList.getTweet(0).aID];
+    OneTweet *tmpTweet = [self.tweetList getTweet : 0];
+    self.tweetAuthor.text = tmpTweet.author.name;
+    self.tweetText.text = tmpTweet.text;
+    self.tweetPublished.text = [NSString stringWithFormat: @"%@", tmpTweet.date];
+    self.tweetID.text = [NSString stringWithFormat: @"%@", tmpTweet.tweetID];
 }
 
 @end
