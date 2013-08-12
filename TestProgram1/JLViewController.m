@@ -6,23 +6,28 @@
 //  Copyright (c) 2013 Student. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "JLViewController.h"
+#import "JLTableViewCell.h"
+#import "JLDetailViewController.h"
+#import "Tweets.h"
+#import "OneTweet.h"
 
-@interface ViewController ()
+@interface JLViewController ()<UITableViewDataSource, UITableViewDelegate>
 
-
+@property (nonatomic, weak) IBOutlet UITableView *tweetsTableView;
 
 @end
 
 
 
-@implementation ViewController
+@implementation JLViewController
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     self.tweetList = [[Tweets alloc] init];
+    
 }
 
 - (void)didReceiveMemoryWarning
@@ -33,12 +38,43 @@
 
 - (IBAction)updateTweets: (UIButton *)sender {
     [self.tweetList updateTweets];
-    self.tweetsNumber.text = [NSString stringWithFormat: @"Tweets (%d) :", self.tweetList.count];
-    OneTweet *tmpTweet = [self.tweetList getTweet : 0];
-    self.tweetAuthor.text = tmpTweet.author.name;
-    self.tweetText.text = tmpTweet.text;
-    self.tweetPublished.text = [NSString stringWithFormat: @"%@", tmpTweet.date];
-    self.tweetID.text = [NSString stringWithFormat: @"%@", tmpTweet.tweetID];
+    self.tweetsNumber.text = [NSString stringWithFormat: @"%d New", self.tweetList.count];
+    [self.tweetsTableView reloadData];
 }
+
+- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    
+    [self.tweetsTableView deselectRowAtIndexPath:[self.tweetsTableView indexPathForSelectedRow] animated:YES];
+}
+
+#pragma mark - UITableView Data Source
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+    return self.tweetList.count;
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    static NSString *cellIdentifier = @"Cell";
+    JLTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
+    cell.nickNameLabel.text = ((OneTweet *)self.tweetList.tweetArray[indexPath.row]).author.name;
+    cell.userTweetLabel.text = ((OneTweet *)self.tweetList.tweetArray[indexPath.row]).text;
+    cell.avatarImageView.image = [UIImage imageNamed:@"placeholder"];
+    return cell;
+}
+
+#pragma mark - UITableView Delegate
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    ;
+}
+
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    if ([segue.identifier isEqualToString:@"segue"]) {
+        JLDetailViewController *vc = (JLDetailViewController *)segue.destinationViewController;
+        vc.userTweetText = ((OneTweet *)[self.tweetList.tweetArray objectAtIndex: [self.tweetsTableView indexPathForSelectedRow].row]).text;
+    }
+}
+
 
 @end

@@ -10,4 +10,6 @@
 
 @interface JLDetailViewController : UIViewController
 
+@property (copy, nonatomic) NSString *userTweetText;
+
 @end

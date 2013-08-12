@@ -1,0 +1,1219 @@
+TSSToolkitResources
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+cCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+cTouch /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/Info.plist
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button@2x.png
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t2
+s0
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c000000005208F1170000000000000100
+t1376317719
+s256
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c000000005208F117000000000000015E
+t1376317719
+s350
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c000000005208F117000000000000036F
+t1376317719
+s879
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c000000005208F11700000000000004E0
+t1376317719
+s1248
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c000000005208F117000000000000027C
+t1376317719
+s636
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c000000005208F11700000000000003C9
+t1376317719
+s969
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c000000005208F1170000000000000240
+t1376317719
+s576
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c000000005208F1170000000000000525
+t1376317719
+s1317
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c000000005208F1170000000000000248
+t1376317719
+s584
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c000000005208F117000000000000053E
+t1376317719
+s1342
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c000000005208F117000000000000008E
+t1376317719
+s142
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c000000005208F11700000000000000CC
+t1376317719
+s204
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c000000005208F117000000000000008E
+t1376317719
+s142
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c000000005208F11700000000000000E7
+t1376317719
+s231
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button-mini.png
+c000000005208F117000000000000012C
+t1376317719
+s300
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png
+c000000005208F11700000000000001FE
+t1376317719
+s510
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button.png
+c000000005208F117000000000000015F
+t1376317719
+s351
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button@2x.png
+c000000005208F1170000000000000262
+t1376317719
+s610
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button-mini.png
+c000000005208F117000000000000008E
+t1376317719
+s142
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png
+c000000005208F11700000000000000FC
+t1376317719
+s252
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button.png
+c000000005208F11700000000000000BB
+t1376317719
+s187
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button@2x.png
+c000000005208F11700000000000000FD
+t1376317719
+s253
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button-mini.png
+c000000005208F1170000000000000094
+t1376317719
+s148
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png
+c000000005208F11700000000000000ED
+t1376317719
+s237
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button.png
+c000000005208F11700000000000000AE
+t1376317719
+s174
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button@2x.png
+c000000005208F1170000000000000104
+t1376317719
+s260
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/gray-star.png
+c000000005208F1170000000000000DC4
+t1376317719
+s3524
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c000000005208F117000000000000118E
+t1376317719
+s4494
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-check.png
+c000000005208F11700000000000001A1
+t1376317719
+s417
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c000000005208F1170000000000000299
+t1376317719
+s665
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-x.png
+c000000005208F11700000000000001BA
+t1376317719
+s442
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c000000005208F1170000000000000310
+t1376317719
+s784
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/orange-star.png
+c000000005208F1170000000000000EB3
+t1376317719
+s3763
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c000000005208F1170000000000001456
+t1376317719
+s5206
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button-mini.png
+c000000005208F1170000000000000106
+t1376317719
+s262
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png
+c000000005208F117000000000000020E
+t1376317719
+s526
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button.png
+c000000005208F1170000000000000175
+t1376317719
+s373
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button@2x.png
+c000000005208F11700000000000002AE
+t1376317719
+s686
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button-mini.png
+c000000005208F1170000000000000116
+t1376317719
+s278
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png
+c000000005208F11700000000000002A4
+t1376317719
+s676
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button.png
+c000000005208F11700000000000001A2
+t1376317719
+s418
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button@2x.png
+c000000005208F1170000000000000317
+t1376317719
+s791
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button-mini.png
+c000000005208F11700000000000000D2
+t1376317719
+s210
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png
+c000000005208F1170000000000000135
+t1376317719
+s309
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button.png
+c000000005208F11700000000000000FC
+t1376317719
+s252
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button@2x.png
+c000000005208F1170000000000000170
+t1376317719
+s368
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c000000005208F1170000000000000369
+t1376317719
+s873
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c000000005208F1170000000000000352
+t1376317719
+s850
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c000000005208F1170000000000000374
+t1376317719
+s884
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c000000005208F1170000000000000361
+t1376317719
+s865
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c000000005208F1170000000000000361
+t1376317719
+s865
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c000000005208F117000000000000035C
+t1376317719
+s860
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c000000005208F11700000000000005F0
+t1376317719
+s1520
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c000000005208F117000000000000033A
+t1376317719
+s826
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c000000005208F1170000000000000370
+t1376317719
+s880
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c000000005208F1170000000000000376
+t1376317719
+s886
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c000000005208F117000000000000035A
+t1376317719
+s858
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c000000005208F1170000000000000361
+t1376317719
+s865
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c000000005208F1170000000000000382
+t1376317719
+s898
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c000000005208F117000000000000036C
+t1376317719
+s876
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c000000005208F117000000000000035A
+t1376317719
+s858
+
+N/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c000000005208F1170000000000000358
+t1376317719
+s856
+
+NResources/SSToolkitResources-Info.plist
+c000000005208F1170000000000000572
+t1376317719
+s1394
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8f1bba9928b9b741^fdf5e29928b9b741^---0#1#0#--18"Check dependencies36"149E37E8-3EAB-46DC-8AFD-05438E15BD3A-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+s398010522.176725
+e398010522.224686
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+xResources/Images/SSAddressBarTextFieldBackground.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png6d562d9a28b9b741^54c4399a28b9b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png0000000000000000^729"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png36"1D69A694-22F4-45B4-8D9E-CC4E549DDBCE-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+s398010522.185898
+e398010522.240176
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+xResources/Images/SSAddressBarTextFieldBackground@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png9ab22f9a28b9b741^726d549a28b9b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png0000000000000000^749"CopyPNGFile "./SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png" "Resources/Images/SSAddressBarTextFieldBackground@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png"36"AB273719-B88D-47F9-ACD4-9540131FC510-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+s398010522.187212
+e398010522.246439
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+xResources/Images/SSAddressBarTextFieldReload.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png5f0d309a28b9b741^807d549a28b9b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png0000000000000000^713"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload.png36"97A8CF94-20C4-4AA5-9AEF-2A128DE3EB79-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+s398010522.189878
+e398010522.255063
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+xResources/Images/SSAddressBarTextFieldReload@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png7cb8309a28b9b741^118f549a28b9b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png0000000000000000^733"CopyPNGFile "./SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png" "Resources/Images/SSAddressBarTextFieldReload@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png"36"4C3F32CB-10E4-46D6-8006-8029C0E4CDCC-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+s398010522.225894
+e398010522.288105
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+xResources/Images/SSAddressBarTextFieldStop.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png03ee399a28b9b741^ab96549a28b9b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png0000000000000000^705"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop.png36"A83DB490-2B3F-41BA-933B-27A9EF747B12-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+s398010522.241549
+e398010522.311280
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+xResources/Images/SSAddressBarTextFieldStop@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CopyPNGFile ./SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.pngeeee3d9a28b9b741^779e549a28b9b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png0000000000000000^725"CopyPNGFile "./SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png" "Resources/Images/SSAddressBarTextFieldStop@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png"36"02C9678A-0708-4B2C-91F3-68254CB06591-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+s398010522.247753
+e398010522.309146
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton.png
+xResources/Images/UISegmentBarButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png23843f9a28b9b741^3d9c549a28b9b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png0000000000000000^677"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton.png36"1D8F884B-C7D2-43C6-A27A-79E1EBDE9CC2-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+s398010522.256565
+e398010522.331459
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton@2x.png
+xResources/Images/UISegmentBarButton@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png5fd1419a28b9b741^42e8549a28b9b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png0000000000000000^697"CopyPNGFile "./SSToolkitResources.bundle/UISegmentBarButton@2x.png" "Resources/Images/UISegmentBarButton@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButton@2x.png"36"39B61756-AC40-4EBF-B4B0-0D47FB4DAE2E-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+s398010522.289722
+e398010522.341853
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+xResources/Images/UISegmentBarButtonHighlighted.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png28464a9a28b9b741^d49d579a28b9b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png0000000000000000^721"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png36"06C95ACA-BED5-4BEF-9741-9D8EE4AC7805-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+s398010522.310462
+e398010522.361110
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+xResources/Images/UISegmentBarButtonHighlighted@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png5b964f9a28b9b741^3a7a5c9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png0000000000000000^741"CopyPNGFile "./SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png" "Resources/Images/UISegmentBarButtonHighlighted@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png"36"7FB0DA00-D1DB-42A0-B72C-9922E30D9C9E-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+s398010522.313325
+e398010522.358806
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider.png
+xResources/Images/UISegmentBarDivider.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.pngce50509a28b9b741^edf45b9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png0000000000000000^681"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider.png36"C5D4BBA9-9D7C-4B32-AA55-FF4CCFE91F61-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+s398010522.332785
+e398010522.378360
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+xResources/Images/UISegmentBarDivider@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png4d4e559a28b9b741^6afa609a28b9b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png0000000000000000^701"CopyPNGFile "./SSToolkitResources.bundle/UISegmentBarDivider@2x.png" "Resources/Images/UISegmentBarDivider@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDivider@2x.png"36"58F609E4-9DEE-4A4D-B45F-A4EFCF02605A-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+s398010522.343104
+e398010522.387773
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+xResources/Images/UISegmentBarDividerHighlighted.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png4eee579a28b9b741^d74f639a28b9b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png0000000000000000^725"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png36"101D40C5-78E8-4B6A-AA72-3D07DFA72808-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+s398010522.360265
+e398010522.408178
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+xResources/Images/UISegmentBarDividerHighlighted@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile ./SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.pngc1575c9a28b9b741^f581689a28b9b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png0000000000000000^745"CopyPNGFile "./SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png" "Resources/Images/UISegmentBarDividerHighlighted@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png"36"189171FF-0F5E-45C5-AD69-AB2614B0911A-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+s398010522.362365
+e398010522.408911
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini.png
+xResources/Images/action-button-mini.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ./SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.pngb5dd5c9a28b9b741^dead689a28b9b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button-mini.png0000000000000000^677"CopyPNGFile ./SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button-mini.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini.png36"BF1F25BF-4990-41B1-BB91-B445A35D5C35-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+s398010522.379692
+e398010522.426362
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini@2x.png
+xResources/Images/action-button-mini@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ./SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png8b4f619a28b9b741^ca356d9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png0000000000000000^697"CopyPNGFile "./SSToolkitResources.bundle/action-button-mini@2x.png" "Resources/Images/action-button-mini@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button-mini@2x.png"36"5423BE3B-5349-463B-98F2-A3704D896A56-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+s398010522.389187
+e398010522.433106
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button.png
+xResources/Images/action-button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile ./SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png33c2639a28b9b741^9aed6e9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button.png0000000000000000^657"CopyPNGFile ./SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button.png36"6EAFC300-FFB6-4035-A6DC-8DD47F160911-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+s398010522.409395
+e398010522.456567
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button@2x.png
+xResources/Images/action-button@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile ./SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.pngf3e6689a28b9b741^74ec749a28b9b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button@2x.png0000000000000000^677"CopyPNGFile "./SSToolkitResources.bundle/action-button@2x.png" "Resources/Images/action-button@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/action-button@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/action-button@2x.png"36"3DA3FF69-D64A-48CC-97A4-19D37E7E1723-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+s398010522.409393
+e398010522.452641
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini.png
+xResources/Images/back-button-mini.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile ./SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.pnge2e6689a28b9b741^5dfe739a28b9b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button-mini.png0000000000000000^669"CopyPNGFile ./SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button-mini.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini.png36"7978B132-B650-4719-9D31-1EB04334892B-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+s398010522.427908
+e398010522.480702
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini@2x.png
+xResources/Images/back-button-mini@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CopyPNGFile ./SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png00a96d9a28b9b741^770f7c9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png0000000000000000^689"CopyPNGFile "./SSToolkitResources.bundle/back-button-mini@2x.png" "Resources/Images/back-button-mini@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button-mini@2x.png"36"C7962197-4464-460E-8F31-CFC3DB4AD472-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+s398010522.434534
+e398010522.485779
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button.png
+xResources/Images/back-button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile ./SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png58556f9a28b9b741^876c7c9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button.png0000000000000000^649"CopyPNGFile ./SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button.png36"C0EC01E4-E4BC-4433-9D90-112D43E2D0AE-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+s398010522.453964
+e398010522.505144
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button@2x.png
+xResources/Images/back-button@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile ./SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png2e71749a28b9b741^5e69819a28b9b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button@2x.png0000000000000000^669"CopyPNGFile "./SSToolkitResources.bundle/back-button@2x.png" "Resources/Images/back-button@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/back-button@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/back-button@2x.png"36"69782460-85C7-47AA-962F-1AF7D0F00B4F-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+s398010522.457803
+e398010522.509071
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini.png
+xResources/Images/forward-button-mini.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CopyPNGFile ./SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png064b759a28b9b741^fb5b829a28b9b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button-mini.png0000000000000000^681"CopyPNGFile ./SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button-mini.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini.png36"C51FAAD1-D157-4D3F-BCB2-A12A4B225BC7-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+s398010522.485010
+e398010522.528589
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini@2x.png
+xResources/Images/forward-button-mini@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CopyPNGFile ./SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.pnged457c9a28b9b741^255d879a28b9b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png0000000000000000^701"CopyPNGFile "./SSToolkitResources.bundle/forward-button-mini@2x.png" "Resources/Images/forward-button-mini@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button-mini@2x.png"36"B06F044D-0FD8-4FD5-802C-74F0F401012B-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+s398010522.487093
+e398010522.533646
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button.png
+xResources/Images/forward-button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile ./SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png035b7d9a28b9b741^43aa889a28b9b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button.png0000000000000000^661"CopyPNGFile ./SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button.png36"BB27D793-E613-481A-965E-D47FC15A4BDF-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+s398010522.506466
+e398010522.550619
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button@2x.png
+xResources/Images/forward-button@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile ./SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png97c4819a28b9b741^76fb8c9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button@2x.png0000000000000000^681"CopyPNGFile "./SSToolkitResources.bundle/forward-button@2x.png" "Resources/Images/forward-button@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/forward-button@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/forward-button@2x.png"36"AAE2B6E4-4D86-49D5-8506-54E3D6886B8D-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+s398010522.124851
+e398010522.175350
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star.png
+xResources/Images/gray-star.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CopyPNGFile ./SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.pngf112209a28b9b741^7ae32c9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/gray-star.png0000000000000000^641"CopyPNGFile ./SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/gray-star.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star.png36"566E43FD-70B7-4D29-BC20-704783823024-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+s398010522.124933
+e398010522.185821
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star@2x.png
+xResources/Images/gray-star@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile ./SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.pngb614209a28b9b741^46972f9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/gray-star@2x.png0000000000000000^661"CopyPNGFile "./SSToolkitResources.bundle/gray-star@2x.png" "Resources/Images/gray-star@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/gray-star@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/gray-star@2x.png"36"4589332B-CC35-43A6-A22E-C38600DCDC13-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+s398010521.935614
+e398010522.123553
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check.png
+xResources/Images/hud-check.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CopyPNGFile ./SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.pngefaeef9928b9b741^84a01f9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-check.png0000000000000000^641"CopyPNGFile ./SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-check.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check.png36"F09BA24E-4550-4DCD-B470-601ED0E5EFC6-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+s398010521.936134
+e398010522.125955
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check@2x.png
+xResources/Images/hud-check@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile ./SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.pngd7bfef9928b9b741^8941209a28b9b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-check@2x.png0000000000000000^661"CopyPNGFile "./SSToolkitResources.bundle/hud-check@2x.png" "Resources/Images/hud-check@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-check@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-check@2x.png"36"2A9870C1-6952-450F-9C93-DF904E0941FE-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+s398010521.938005
+e398010522.124350
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x.png
+xResources/Images/hud-x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"CopyPNGFile ./SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.pnga83af09928b9b741^23dd1f9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-x.png0000000000000000^625"CopyPNGFile ./SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-x.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x.png36"0A6727C9-C738-4E32-8A6D-90633322FB33-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+s398010521.938042
+e398010522.125957
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x@2x.png
+xResources/Images/hud-x@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile ./SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png4b3cf09928b9b741^124d209a28b9b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-x@2x.png0000000000000000^645"CopyPNGFile "./SSToolkitResources.bundle/hud-x@2x.png" "Resources/Images/hud-x@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/hud-x@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/hud-x@2x.png"36"AF321134-2545-4C29-8B6F-F6BC2B23D96B-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+s398010522.127216
+e398010522.184386
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star.png
+xResources/Images/orange-star.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile ./SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.pngefa9209a28b9b741^ee3e2f9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/orange-star.png0000000000000000^649"CopyPNGFile ./SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/orange-star.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star.png36"2DD2D983-A61C-4860-B04C-988E00E1B598-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+s398010522.127208
+e398010522.188435
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star@2x.png
+xResources/Images/orange-star@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile ./SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png11aa209a28b9b741^323e309a28b9b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/orange-star@2x.png0000000000000000^669"CopyPNGFile "./SSToolkitResources.bundle/orange-star@2x.png" "Resources/Images/orange-star@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/orange-star@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/orange-star@2x.png"36"827FE69D-E4E2-49FE-97FB-EA0FBB86EFB9-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+s398010522.510411
+e398010522.552902
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini.png
+xResources/Images/reload-button-mini.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ./SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png2ac5829a28b9b741^ee958d9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button-mini.png0000000000000000^677"CopyPNGFile ./SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button-mini.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini.png36"2541F6C5-EE99-43FC-A384-6820CBEDAACB-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+s398010522.529891
+e398010522.576697
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini@2x.png
+xResources/Images/reload-button-mini@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ./SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png2bc0879a28b9b741^cbd9939a28b9b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png0000000000000000^697"CopyPNGFile "./SSToolkitResources.bundle/reload-button-mini@2x.png" "Resources/Images/reload-button-mini@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button-mini@2x.png"36"F6F679DA-DE01-4CAF-BDDB-3E2A082F00B6-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+s398010522.534928
+e398010522.579343
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button.png
+xResources/Images/reload-button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile ./SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png4e0c899a28b9b741^855d949a28b9b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button.png0000000000000000^657"CopyPNGFile ./SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button.png36"73B9FB32-D3B3-43DF-93E8-2554132FFDB9-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+s398010522.551985
+e398010522.601990
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button@2x.png
+xResources/Images/reload-button@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile ./SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.pngb16d8d9a28b9b741^a4509a9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button@2x.png0000000000000000^677"CopyPNGFile "./SSToolkitResources.bundle/reload-button@2x.png" "Resources/Images/reload-button@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/reload-button@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/reload-button@2x.png"36"D3577973-18BA-4D53-BB4E-2A4948607B4E-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+s398010522.554155
+e398010522.602235
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini.png
+xResources/Images/safari-button-mini.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile ./SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png50fb8d9a28b9b741^f3599a9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button-mini.png0000000000000000^677"CopyPNGFile ./SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button-mini.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini.png36"1678214B-F7CE-46FC-BC89-5AA1D2EC1DA2-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+s398010522.577994
+e398010522.640336
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini@2x.png
+xResources/Images/safari-button-mini@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile ./SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png8813949a28b9b741^c37da49a28b9b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png0000000000000000^697"CopyPNGFile "./SSToolkitResources.bundle/safari-button-mini@2x.png" "Resources/Images/safari-button-mini@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button-mini@2x.png"36"D001C159-8877-4DAE-B38E-89D88C5E1D93-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+s398010522.582247
+e398010522.642404
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button.png
+xResources/Images/safari-button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile ./SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png0f2a959a28b9b741^0187a49a28b9b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button.png0000000000000000^657"CopyPNGFile ./SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button.png36"D3C148EE-B991-49A3-9EED-7C644ED0CE59-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+s398010522.603600
+e398010522.675639
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button@2x.png
+xResources/Images/safari-button@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile ./SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.pngbe9f9a9a28b9b741^a645ad9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button@2x.png0000000000000000^677"CopyPNGFile "./SSToolkitResources.bundle/safari-button@2x.png" "Resources/Images/safari-button@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/safari-button@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/safari-button@2x.png"36"7EB9A94B-DC2E-4829-9151-DD70DA16B2BA-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+s398010522.603262
+e398010522.670401
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini.png
+xResources/Images/stop-button-mini.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile ./SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png55899a9a28b9b741^d89fac9a28b9b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button-mini.png0000000000000000^669"CopyPNGFile ./SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button-mini.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini.png36"0F188F9F-5D3A-4734-AC61-4F934F46C309-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+s398010522.642532
+e398010522.697769
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini@2x.png
+xResources/Images/stop-button-mini@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CopyPNGFile ./SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png0b98a49a28b9b741^53b4b29a28b9b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png0000000000000000^689"CopyPNGFile "./SSToolkitResources.bundle/stop-button-mini@2x.png" "Resources/Images/stop-button-mini@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button-mini@2x.png"36"A151D862-1B08-45F3-A1DA-1270B5E5E557-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+s398010522.644244
+e398010522.698073
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button.png
+xResources/Images/stop-button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile ./SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png5706a59a28b9b741^2fc4b29a28b9b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button.png0000000000000000^649"CopyPNGFile ./SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button.png /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button.png36"A8C4D9E6-7916-413B-8010-71BF17F041BA-
+
+CCopyPNGFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+s398010522.671752
+e398010522.722834
+r1
+xCopyPNGFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button@2x.png
+xResources/Images/stop-button@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CopyPNGFile ./SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.pnga514ac9a28b9b741^c1e6b89a28b9b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button@2x.png0000000000000000^669"CopyPNGFile "./SSToolkitResources.bundle/stop-button@2x.png" "Resources/Images/stop-button@2x.png"    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/Images/stop-button@2x.png" "/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/stop-button@2x.png"36"7DB1EA84-CC5E-4835-AD63-1E02E367E6DB-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+s398010521.915301
+e398010521.919321
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+xResources/de.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/de.lproj/SSToolkit.strings0b7fea9928b9b741^6d58eb9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/de.lproj -- Resources/de.lproj/SSToolkit.strings36"9E778192-917A-4C36-A85E-7C5A35F856D2-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+s398010521.914653
+e398010521.918392
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+xResources/en.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/en.lproj/SSToolkit.stringsb249ea9928b9b741^0e15eb9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/en.lproj -- Resources/en.lproj/SSToolkit.strings36"9A4F6235-3989-4764-B27E-1839B5846063-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+s398010521.916028
+e398010521.920897
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+xResources/es.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/es.lproj/SSToolkit.strings8998ea9928b9b741^a5bfeb9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/es.lproj -- Resources/es.lproj/SSToolkit.strings36"88FE8F2F-25D4-4BB5-933E-71A3E0DEC02D-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+s398010521.916087
+e398010521.922121
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+xResources/fr.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/fr.lproj/SSToolkit.stringse999ea9928b9b741^ed0fec9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/fr.lproj -- Resources/fr.lproj/SSToolkit.strings36"EECB626F-4348-43A7-8D9D-7F18252F7E1E-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+s398010521.919581
+e398010521.925363
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+xResources/id.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/id.lproj/SSToolkit.stringsf88deb9928b9b741^fce4ec9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/id.lproj -- Resources/id.lproj/SSToolkit.strings36"BB891DBE-D06C-47D5-9843-A41A33442348-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+s398010521.919586
+e398010521.923286
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+xResources/it.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/it.lproj/SSToolkit.strings1783eb9928b9b741^9964ec9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/it.lproj -- Resources/it.lproj/SSToolkit.strings36"E4902805-EDE4-461A-A2D6-3EA2F3B4A934-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+s398010521.922231
+e398010521.926379
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+xResources/ja.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ja.lproj/SSToolkit.stringsad31ec9928b9b741^1f2eed9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ja.lproj -- Resources/ja.lproj/SSToolkit.strings36"6C2ABD9A-AD2D-4DF4-BDD0-4AFD14F0F35C-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+s398010521.923327
+e398010521.928036
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+xResources/ko.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ko.lproj/SSToolkit.strings807dec9928b9b741^b29fed9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ko.lproj -- Resources/ko.lproj/SSToolkit.strings36"930EB93B-22EF-438B-9A62-0E169D774A7A-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+s398010521.924582
+e398010521.928654
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+xResources/ms.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ms.lproj/SSToolkit.strings46d0ec9928b9b741^12bced9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ms.lproj -- Resources/ms.lproj/SSToolkit.strings36"C75C4B3D-CCCD-4FB5-8ACC-B8C50FB30509-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+s398010521.926743
+e398010521.930070
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+xResources/nl.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/nl.lproj/SSToolkit.strings185aed9928b9b741^c51eee9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/nl.lproj -- Resources/nl.lproj/SSToolkit.strings36"A61FA8B1-FBE4-4209-95BE-F037B0344EC4-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+s398010521.929239
+e398010521.932284
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+xResources/pt.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/pt.lproj/SSToolkit.strings8a01ee9928b9b741^68b3ee9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt.lproj -- Resources/pt.lproj/SSToolkit.strings36"05EE4888-C029-43C9-9DA0-D0358F2177CA-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+s398010521.926751
+e398010521.931169
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+xResources/pt_PT.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Resources/pt_PT.lproj/SSToolkit.strings4e61ed9928b9b741^a168ee9928b9b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings0000000000000000^603"CopyStringsFile ./SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/pt_PT.lproj -- Resources/pt_PT.lproj/SSToolkit.strings36"1074724A-5EDC-40D4-8534-8D879B6427D1-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+s398010521.929507
+e398010521.934437
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+xResources/ru.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ru.lproj/SSToolkit.stringse50bee9928b9b741^b039ef9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/ru.lproj -- Resources/ru.lproj/SSToolkit.strings36"72C1DDCA-AD8E-436C-BD24-064C2B7B38E7-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+s398010521.931529
+e398010521.935138
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+xResources/sv.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/sv.lproj/SSToolkit.strings8e93ee9928b9b741^ec69ef9928b9b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings0000000000000000^591"CopyStringsFile ./SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/sv.lproj -- Resources/sv.lproj/SSToolkit.strings36"1CD84EEF-626D-44FA-A320-FC083FBF0521-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+s398010521.932055
+e398010521.936742
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+xResources/zh_Hans.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hans.lproj/SSToolkit.strings9ab3ee9928b9b741^0fd2ef9928b9b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings0000000000000000^611"CopyStringsFile ./SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hans.lproj -- Resources/zh_Hans.lproj/SSToolkit.strings36"15253FCE-7E15-40D3-B62F-4E78B03C5735-
+
+CCopyStringsFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+s398010521.933704
+e398010521.937589
+r1
+xCopyStringsFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+xResources/zh_Hant.lproj/SSToolkit.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.strings0b25ef9928b9b741^2d05f09928b9b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^611"CopyStringsFile ./SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"EC2F7D25-0F10-47BF-958B-5073E93D22AC-
+
+CProcessInfoPlistFile /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist
+s398010521.901736
+e398010521.906175
+r1
+xProcessInfoPlistFile
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/Info.plist
+xResources/SSToolkitResources-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Process Resources/SSToolkitResources-Info.plist2b16e79928b9b741^b70ce89928b9b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/student/Documents/TestProgram1/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^582"ProcessInfoPlistFile ./SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle/Info.plist36"64D39EF8-6E68-4C4E-98C2-A4C2D2CDBB7F-
+
+CTouch /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle
+s398010522.731764
+e398010522.739512
+r1
+xTouch
+x/Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Touch /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundlec66ebb9a28b9b741^2250bd9a28b9b741^---0#0#0#--400"Touch ./SSToolkitResources.bundle    cd /Users/student/Documents/TestProgram1/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/student/Documents/TestProgram1/Pods/SSToolkit/./SSToolkitResources.bundle36"F53057F9-2363-4E90-B354-D7681040930C-
+

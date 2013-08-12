@@ -1,0 +1,13 @@
+PODS:
+  - AFNetworking (1.3.2)
+  - SSToolkit (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (= 1.3.2)
+  - SSToolkit
+
+SPEC CHECKSUMS:
+  AFNetworking: 7f9bcd7c287a75476cd5c61e82fd3380e93e4c54
+  SSToolkit: 689acaedac79c2079e492e528a55bcb5db9d98c4
+
+COCOAPODS: 0.22.2

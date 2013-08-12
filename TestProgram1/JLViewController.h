@@ -9,12 +9,8 @@
 #import <UIKit/UIKit.h>
 #import "Tweets.h"
 
-@interface ViewController : UIViewController
+@interface JLViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UILabel *tweetsNumber;
-@property (weak, nonatomic) IBOutlet UILabel *tweetAuthor;
-@property (weak, nonatomic) IBOutlet UILabel *tweetText;
-@property (weak, nonatomic) IBOutlet UILabel *tweetPublished;
-@property (weak, nonatomic) IBOutlet UILabel *tweetID;
 @property (strong, nonatomic) Tweets *tweetList;
 - (IBAction)updateTweets: (UIButton *)sender;
 @end
