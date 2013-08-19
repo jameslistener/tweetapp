@@ -14,6 +14,11 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>Pods-STTwitter.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -22,6 +27,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>12132D1BA8A847D3B4EBDCED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>1E6CE07E76E0439291A5837A</key>
 		<dict>
 			<key>primary</key>
@@ -32,7 +42,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>8FB37E3199D04D66BEBC22A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>AC847BD829D3487D974A846F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B4FE324BD047473D8FF85A5F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -43,6 +63,11 @@
 			<true/>
 		</dict>
 		<key>D1631E1740A64205934367C4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DC0DF711CA8D49389B4EEDED</key>
 		<dict>
 			<key>primary</key>
 			<true/>
