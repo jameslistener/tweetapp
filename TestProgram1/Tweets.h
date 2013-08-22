@@ -14,6 +14,8 @@
 @property (nonatomic) NSUInteger count;
 - (id) init;
 - (id) initWithTweets : (NSArray *)newTweets;
-- (void) updateTweets;
+- (void) updateTweets : (UITableView *)tweetsTableView
+          numOfTweets : (UILabel *)tweetsNumber
+        doAfterUpdate : (void (^)(UILabel *tweetsNumber, UITableView *tweetsTableView, NSArray *tweetArray))doAfterUpdate;
 - (OneTweet *) getTweet : (int) tweetN;
 @end

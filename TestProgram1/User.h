@@ -11,14 +11,17 @@
 @interface User : NSObject
 @property (strong, nonatomic) NSNumber *userID;
 @property (strong, nonatomic) NSString *name;
+@property (strong, nonatomic) NSURL *avatar;
 @property (strong, nonatomic) NSDate *registerDate;
 
 - (id) init;
 - (id) initWithData : (NSNumber *) uID
            userName : (NSString *) uName
+         userAvatar : (NSURL *) uAvatar
        registerDate : (NSDate *) rDate;
 + (id) user;
 + (id) userWithData : (NSNumber *) uID
            userName : (NSString *) uName
+         userAvatar : (NSURL *) uAvatar
        registerDate : (NSDate *) rDate;
 @end

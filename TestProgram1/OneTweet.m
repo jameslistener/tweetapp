@@ -21,17 +21,20 @@
 }
 
 - (id) init {
-    return self = [[OneTweet alloc] initWithData:nil date:nil text:nil author:nil];
+    return [self initWithData:nil date:nil text:nil author:nil];
 }
 
 - (id) initWithData : (NSNumber *)tID
                date : (NSDate *) tDate
                text : (NSString *) tText
              author : (User *) a {
-    self.tweetID = tID;
-    self.date = tDate;
-    self.text = tText;
-    self.author = a;
+    self = [super init];
+    if (self) {
+        self.tweetID = tID;
+        self.date = tDate;
+        self.text = tText;
+        self.author = a;
+    }
     return self;
 }
 @end

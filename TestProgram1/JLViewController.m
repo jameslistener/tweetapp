@@ -11,6 +11,7 @@
 #import "JLDetailViewController.h"
 #import "Tweets.h"
 #import "OneTweet.h"
+#import <UIImageView+AFNetworking.h>
 
 @interface JLViewController ()<UITableViewDataSource, UITableViewDelegate>
 
@@ -27,7 +28,6 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     self.tweetList = [[Tweets alloc] init];
-    
 }
 
 - (void)didReceiveMemoryWarning
@@ -37,9 +37,10 @@
 }
 
 - (IBAction)updateTweets: (UIButton *)sender {
-    [self.tweetList updateTweets];
-    self.tweetsNumber.text = [NSString stringWithFormat: @"%d New", self.tweetList.count];
-    [self.tweetsTableView reloadData];
+    [self.tweetList updateTweets : self.tweetsTableView numOfTweets: self.tweetsNumber doAfterUpdate : ^(UILabel *tweetsNumber, UITableView *tweetsTableView, NSArray *tweetArray) {
+        tweetsNumber.text = [NSString stringWithFormat: @"%d New", tweetArray.count];
+        [tweetsTableView reloadData];
+    }];
 }
 
 - (void)viewWillAppear:(BOOL)animated {
@@ -58,8 +59,8 @@
     static NSString *cellIdentifier = @"Cell";
     JLTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
     cell.nickNameLabel.text = ((OneTweet *)self.tweetList.tweetArray[indexPath.row]).author.name;
-    cell.userTweetLabel.text = ((OneTweet *)self.tweetList.tweetArray[indexPath.row]).text;
-    cell.avatarImageView.image = [UIImage imageNamed:@"placeholder"];
+    cell.userTweetTextView.text = ((OneTweet *)self.tweetList.tweetArray[indexPath.row]).text;
+    [cell.avatarImageView setImageWithURL: ((OneTweet *)self.tweetList.tweetArray[indexPath.row]).author.avatar placeholderImage: [UIImage imageNamed:@"placeholder"]];
     return cell;
 }
 

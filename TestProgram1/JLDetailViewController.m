@@ -10,7 +10,7 @@
 
 @interface JLDetailViewController ()
 
-@property (weak, nonatomic) IBOutlet UILabel *userTweetLabel;
+@property (weak, nonatomic) IBOutlet UITextView *userTweetTextView;
 
 @end
 
@@ -29,7 +29,7 @@
 {
     [super viewDidLoad];
     
-    self.userTweetLabel.text = self.userTweetText;
+    self.userTweetTextView.text = self.userTweetText;
 }
 
 - (void)didReceiveMemoryWarning

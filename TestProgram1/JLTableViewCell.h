@@ -11,7 +11,7 @@
 @interface JLTableViewCell : UITableViewCell
 
 @property(nonatomic, weak) IBOutlet UILabel *nickNameLabel;
-@property(nonatomic, weak) IBOutlet UILabel *userTweetLabel;
+@property(nonatomic, weak) IBOutlet UITextView *userTweetTextView;
 @property(nonatomic, weak) IBOutlet UIImageView *avatarImageView;
 
 @end

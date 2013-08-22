@@ -27,12 +27,17 @@
 }
 
 - (id) initWithTweets : (NSArray *)newTweets {
-    self.tweetArray = newTweets;
-    self.count = newTweets.count;
+    self = [super init];
+    if (self) {
+        self.tweetArray = newTweets;
+        self.count = newTweets.count;
+    }
     return self;
 }
 
-- (void) updateTweets {
+- (void) updateTweets : (UITableView *)tweetsTableView
+          numOfTweets : (UILabel *)tweetsNumber
+        doAfterUpdate : (void (^)(UILabel *tweetsNumber, UITableView *tweetsTableView, NSArray *tweetArray))doAfterUpdate; {
     // request tweets from net
     
     ACAccountStore *account = [[ACAccountStore alloc] init];
@@ -49,65 +54,43 @@
                 
                 NSDictionary *params = @{@"count": @"20"};
                 
-                NSURL *requestURL = [NSURL URLWithString:@"http://api.twitter.com/1.1/statuses/home_timeline.json"];
+                NSURL *requestURL = [NSURL URLWithString:@"https://api.twitter.com/1.1/statuses/home_timeline.json"];
                 
                 SLRequest *postRequest = [SLRequest requestForServiceType:SLServiceTypeTwitter
-                                                            requestMethod:SLRequestMethodPOST
+                                                            requestMethod:SLRequestMethodGET
                                                                       URL:requestURL
                                                                parameters:params];
                 
                 postRequest.account = twitterAccount;
                 
                 [postRequest performRequestWithHandler:^(NSData *responseData, NSHTTPURLResponse *urlResponse, NSError *error){
-                    NSDictionary *JSON = (NSDictionary *)[NSJSONSerialization JSONObjectWithData:responseData
-                                                                                         options:NSJSONReadingMutableContainers
-                                                                                           error:nil];
-                    NSArray *jsonTweets = [JSON valueForKey:@"statuses"];
+                    NSError *e = nil;
+                    NSArray *jsonTweets = [NSJSONSerialization JSONObjectWithData:responseData
+                                                                         options:NSJSONReadingMutableContainers
+                                                                           error:&e];
                     NSMutableArray *tmpTweets = [[NSMutableArray alloc] init];
                     for (NSDictionary *tweet in jsonTweets) {
                         NSDictionary *user = [tweet valueForKey:@"user"];
                         [tmpTweets addObject:
                          [OneTweet tweetWithData:[tweet valueForKey:@"id"]
                                             date:[NSDate dateFromISO8601String:[tweet valueForKey:@"created_at"]]
-                                            text:[tweet valueForKey:@"description"]
+                                            text:[tweet valueForKey:@"text"]
                                           author:[User userWithData:[user valueForKey:@"id"]
                                                            userName:[user valueForKey:@"name"]
+                                                         userAvatar:[NSURL URLWithString:[user valueForKey:@"profile_image_url"]]
                                                        registerDate:[NSDate dateFromISO8601String:[user valueForKey:@"created at"]]]
                          ]
                         ];
                     }
-
+                    self.tweetArray = tmpTweets;
                 }];
             }
         }
         else {
             NSLog(@"Error in request access to account, number '%d'.", error.code);
-        }
+        };
+        doAfterUpdate(tweetsNumber, tweetsTableView, self.tweetArray);
     }];
-    
-
-//    NSURL *url = [NSURL URLWithString:@"https://api.twitter.com/1.1/search/tweets.json?q=%23freebandnames&count=15"];
-
-//    NSURLRequest *request = [NSURLRequest requestWithURL:url];
-    
-//    AFJSONRequestOperation *operation = [AFJSONRequestOperation JSONRequestOperationWithRequest:request success:^(NSURLRequest *request, NSHTTPURLResponse *response, id JSON) {
-//        NSArray *jsonTweets = [JSON valueForKey:@"statuses"];
-//        NSMutableArray *tmpTweets = [[NSMutableArray alloc] init];
-//        for (NSDictionary *tweet in jsonTweets) {
-//            NSDictionary *user = [tweet valueForKey:@"user"];
-//            [tmpTweets addObject:
-//             [OneTweet tweetWithData:[tweet valueForKey:@"id"]
-//                                date:[NSDate dateFromISO8601String:[tweet valueForKey:@"created_at"]]
-//                                text:[tweet valueForKey:@"description"]
-//                              author:[User userWithData:[user valueForKey:@"id"]
-//                                               userName:[user valueForKey:@"name"]
-//                                           registerDate:[NSDate dateFromISO8601String:[user valueForKey:@"created at"]]]
-//              ]
-//             ];
-//        }
-//    } failure:nil];
-//    
-//    [operation start];
     
 //    self.tweetArray = [NSArray arrayWithObjects:
 //                       [OneTweet tweetWithData : @1
