@@ -11,13 +11,13 @@
 @implementation PointAnnotation
 
 - (NSString *)title {
-    return @"Custom location";
+    return @"Bryansk City";
 }
 
 - (CLLocationCoordinate2D)coordinate {
     CLLocationCoordinate2D coordinate;
-    coordinate.latitude = 55.74013097928981;
-    coordinate.longitude = 37.609591484069824;
+    coordinate.latitude = 53.25;
+    coordinate.longitude = 34.36666;
     return coordinate;
 }
 
