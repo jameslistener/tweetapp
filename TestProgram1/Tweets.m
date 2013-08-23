@@ -8,15 +8,9 @@
 
 #import "Tweets.h"
 #import "OneTweet.h"
-#import <AFJSONRequestOperation.h>
-#import <NSDate+SSToolkitAdditions.h>
-#import <Foundation/NSJSONSerialization.h>
-#import <Social/Social.h>
-#import <Accounts/Accounts.h>
+
 
 @interface Tweets ()
-
-//@property STTwitter
 
 @end
 
@@ -35,65 +29,8 @@
     return self;
 }
 
-- (void) updateTweets : (UITableView *)tweetsTableView
-          numOfTweets : (UILabel *)tweetsNumber
-        doAfterUpdate : (void (^)(UILabel *tweetsNumber, UITableView *tweetsTableView, NSArray *tweetArray))doAfterUpdate; {
-    // request tweets from net
-    
-    ACAccountStore *account = [[ACAccountStore alloc] init];
-    ACAccountType *accountType = [account accountTypeWithAccountTypeIdentifier: ACAccountTypeIdentifierTwitter];
-    
-    [account requestAccessToAccountsWithType:accountType
-                                     options:nil
-                                  completion:^(BOOL granted, NSError *error) {
-        if (granted == YES) {
-            NSArray *arrayOfAccounts = [account accountsWithAccountType:accountType];
-            
-            if ([arrayOfAccounts count] > 0) {
-                ACAccount *twitterAccount = [arrayOfAccounts lastObject];
-                
-                NSDictionary *params = @{@"count": @"20"};
-                
-                NSURL *requestURL = [NSURL URLWithString:@"https://api.twitter.com/1.1/statuses/home_timeline.json"];
-                
-                SLRequest *postRequest = [SLRequest requestForServiceType:SLServiceTypeTwitter
-                                                            requestMethod:SLRequestMethodGET
-                                                                      URL:requestURL
-                                                               parameters:params];
-                
-                postRequest.account = twitterAccount;
-                
-                [postRequest performRequestWithHandler:^(NSData *responseData, NSHTTPURLResponse *urlResponse, NSError *error){
-                    NSError *e = nil;
-                    NSArray *jsonTweets = [NSJSONSerialization JSONObjectWithData:responseData
-                                                                         options:NSJSONReadingMutableContainers
-                                                                           error:&e];
-                    NSMutableArray *tmpTweets = [[NSMutableArray alloc] init];
-                    for (NSDictionary *tweet in jsonTweets) {
-                        NSDictionary *user = [tweet valueForKey:@"user"];
-                        [tmpTweets addObject:
-                         [OneTweet tweetWithData:[tweet valueForKey:@"id"]
-                                            date:[NSDate dateFromISO8601String:[tweet valueForKey:@"created_at"]]
-                                            text:[tweet valueForKey:@"text"]
-                                          author:[User userWithData:[user valueForKey:@"id"]
-                                                           userName:[user valueForKey:@"name"]
-                                                         userAvatar:[NSURL URLWithString:[user valueForKey:@"profile_image_url"]]
-                                                       registerDate:[NSDate dateFromISO8601String:[user valueForKey:@"created at"]]]
-                         ]
-                        ];
-                    }
-                    self.tweetArray = tmpTweets;
-                }];
-            }
-        }
-        else {
-            NSLog(@"Error in request access to account, number '%d'.", error.code);
-        };
-        doAfterUpdate(tweetsNumber, tweetsTableView, self.tweetArray);
-    }];
-    
-//    self.tweetArray = [NSArray arrayWithObjects:
-//                       [OneTweet tweetWithData : @1
+/*- (void) updateTweets {
+//   self.tweetArray = @[[OneTweet tweetWithData : @1
 //                                          date : [NSDate dateWithTimeIntervalSince1970: 10000000]
 //                                          text : @"Hello, dude."
 //                                        author : [User userWithData : @1
@@ -126,11 +63,9 @@
 //                                          text : @"Nothing, dude."
 //                                        author : [User userWithData : @2
 //                                                           userName : @"John"
-//                                                       registerDate : [NSDate dateWithTimeIntervalSince1970 : 9900001]]],
-//                       
-//                       nil];
+//                                                       registerDate : [NSDate dateWithTimeIntervalSince1970 : 9900001]]]];
     self.count = self.tweetArray.count;
-}
+}*/
 
 - (OneTweet *) getTweet:(int)tweetN {
     if (self.tweetArray.count != 0)
@@ -138,4 +73,25 @@
     else
         return nil;
 }
+
+#define    kField1Key    @"Field1"
+#define    kField2Key    @"Field2"
+#define    kField3Key    @"Field3"
+#define    kField4Key    @"Field4"
+
+#pragma mark NSCoding
+- (void)encodeWithCoder:(NSCoder *)encoder {
+    [encoder encodeObject:field1 forKey:kField1Key];
+}
+
+- (id)initWithCoder:(NSCoder *)decoder {
+    if (self = [super init]) {
+        field1 = [decoder decodeObjectForKey:kField1Key];
+        field2 = [decoder decodeObjectForKey:kField2Key];
+        field3 = [decoder decodeObjectForKey:kField3Key];
+        field4 = [decoder decodeObjectForKey:kField4Key];
+    }
+    return self;
+}
+
 @end

@@ -145,11 +145,11 @@
 			children = (
 				3FF2ED3C17B3E0FF008B57BA /* Resources */,
 				3FB1927E17A91F75009EAD12 /* Model */,
+				3FF2ED3217B3D72C008B57BA /* View */,
+				3FF2ED3317B3D762008B57BA /* Controller */,
 				3FE5D2AC17A6AABF0007B5EC /* AppDelegate.h */,
 				3FE5D2AD17A6AABF0007B5EC /* AppDelegate.m */,
 				3FE5D2B517A6AAC00007B5EC /* MainStoryboard.storyboard */,
-				3FF2ED3217B3D72C008B57BA /* View */,
-				3FF2ED3317B3D762008B57BA /* Controller */,
 				3FE5D2A417A6AABF0007B5EC /* Supporting Files */,
 			);
 			path = TestProgram1;
