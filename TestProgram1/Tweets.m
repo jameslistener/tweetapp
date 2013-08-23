@@ -16,6 +16,8 @@
 
 @implementation Tweets
 
+@synthesize tweetArray;
+
 - (id) init {
     return [self initWithTweets: [NSArray array]];
 }
@@ -24,7 +26,6 @@
     self = [super init];
     if (self) {
         self.tweetArray = newTweets;
-        self.count = newTweets.count;
     }
     return self;
 }
@@ -74,22 +75,16 @@
         return nil;
 }
 
-#define    kField1Key    @"Field1"
-#define    kField2Key    @"Field2"
-#define    kField3Key    @"Field3"
-#define    kField4Key    @"Field4"
+#define    kTweetsKey    @"ArrayOfTweets"
 
 #pragma mark NSCoding
 - (void)encodeWithCoder:(NSCoder *)encoder {
-    [encoder encodeObject:field1 forKey:kField1Key];
+    [encoder encodeObject: tweetArray forKey:kTweetsKey];
 }
 
 - (id)initWithCoder:(NSCoder *)decoder {
     if (self = [super init]) {
-        field1 = [decoder decodeObjectForKey:kField1Key];
-        field2 = [decoder decodeObjectForKey:kField2Key];
-        field3 = [decoder decodeObjectForKey:kField3Key];
-        field4 = [decoder decodeObjectForKey:kField4Key];
+        tweetArray = [decoder decodeObjectForKey:kTweetsKey];
     }
     return self;
 }

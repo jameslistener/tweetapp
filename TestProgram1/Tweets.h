@@ -11,7 +11,6 @@
 
 @interface Tweets : NSObject
 @property (strong, nonatomic) NSArray *tweetArray;
-@property (nonatomic) NSUInteger count;
 - (id) init;
 - (id) initWithTweets : (NSArray *)newTweets;
 /*- (void) updateTweets : (UITableView *)tweetsTableView

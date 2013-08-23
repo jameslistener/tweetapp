@@ -9,6 +9,12 @@
 #import "OneTweet.h"
 
 @implementation OneTweet
+
+@synthesize tweetID;
+@synthesize text;
+@synthesize author;
+@synthesize date;
+
 + (id) tweet {
     return [[OneTweet alloc] init];
 }
@@ -34,6 +40,29 @@
         self.date = tDate;
         self.text = tText;
         self.author = a;
+    }
+    return self;
+}
+
+#define    kTweetIDKey      @"TweetID"
+#define    kTweetTextKey    @"TweetText"
+#define    kTweetAuthorKey  @"TweetAuthor"
+#define    kTweetDateKey    @"TweetDate"
+
+#pragma mark NSCoding
+- (void)encodeWithCoder:(NSCoder *)encoder {
+    [encoder encodeObject: tweetID forKey:kTweetIDKey];
+    [encoder encodeObject: text forKey:kTweetTextKey];
+    [encoder encodeObject: author forKey:kTweetAuthorKey];
+    [encoder encodeObject: date forKey:kTweetDateKey];
+}
+
+- (id)initWithCoder:(NSCoder *)decoder {
+    if (self = [super init]) {
+        tweetID = [decoder decodeObjectForKey:kTweetIDKey];
+        text = [decoder decodeObjectForKey:kTweetTextKey];
+        author = [decoder decodeObjectForKey:kTweetAuthorKey];
+        date = [decoder decodeObjectForKey:kTweetDateKey];
     }
     return self;
 }
