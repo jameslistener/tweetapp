@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A8F24D517C746F70001452B /* PointAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A8F24D417C746F70001452B /* PointAnnotation.m */; };
+		2A8F24D717C74DDF0001452B /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A8F24D617C74DDF0001452B /* MapKit.framework */; };
 		3F2EF6AD17BD206500FFF3F8 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F2EF6AC17BD206500FFF3F8 /* Social.framework */; };
 		3F2EF6AF17BD206E00FFF3F8 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F2EF6AE17BD206E00FFF3F8 /* Accounts.framework */; };
 		3FB1928217A91FB2009EAD12 /* Tweets.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FB1928117A91FB2009EAD12 /* Tweets.m */; };
@@ -31,6 +33,9 @@
 
 /* Begin PBXFileReference section */
 		1794283F4E07447F91A47D7D /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A8F24D317C746F70001452B /* PointAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PointAnnotation.h; sourceTree = "<group>"; };
+		2A8F24D417C746F70001452B /* PointAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PointAnnotation.m; sourceTree = "<group>"; };
+		2A8F24D617C74DDF0001452B /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		3F2EF6AC17BD206500FFF3F8 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		3F2EF6AE17BD206E00FFF3F8 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
 		3FB1928017A91FB2009EAD12 /* Tweets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tweets.h; sourceTree = "<group>"; };
@@ -68,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A8F24D717C74DDF0001452B /* MapKit.framework in Frameworks */,
 				3F2EF6AF17BD206E00FFF3F8 /* Accounts.framework in Frameworks */,
 				3F2EF6AD17BD206500FFF3F8 /* Social.framework in Frameworks */,
 				3FE5D29E17A6AABF0007B5EC /* UIKit.framework in Frameworks */,
@@ -130,6 +136,7 @@
 		3FE5D29C17A6AABF0007B5EC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2A8F24D617C74DDF0001452B /* MapKit.framework */,
 				3F2EF6AE17BD206E00FFF3F8 /* Accounts.framework */,
 				3F2EF6AC17BD206500FFF3F8 /* Social.framework */,
 				3FE5D29D17A6AABF0007B5EC /* UIKit.framework */,
@@ -185,6 +192,8 @@
 				3FE5D2B917A6AAC00007B5EC /* JLViewController.m */,
 				3FF2ED3717B3DEA2008B57BA /* JLDetailViewController.h */,
 				3FF2ED3817B3DEA2008B57BA /* JLDetailViewController.m */,
+				2A8F24D317C746F70001452B /* PointAnnotation.h */,
+				2A8F24D417C746F70001452B /* PointAnnotation.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -315,6 +324,7 @@
 				3FDD41DC17AA84800034EF45 /* User.m in Sources */,
 				3FF2ED3617B3D901008B57BA /* JLTableViewCell.m in Sources */,
 				3FF2ED3917B3DEA2008B57BA /* JLDetailViewController.m in Sources */,
+				2A8F24D517C746F70001452B /* PointAnnotation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

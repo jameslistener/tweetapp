@@ -7,10 +7,13 @@
 //
 
 #import "JLDetailViewController.h"
+#import <MapKit/MapKit.h>
+#import "PointAnnotation.h"
 
 @interface JLDetailViewController ()
 
 @property (weak, nonatomic) IBOutlet UITextView *userTweetTextView;
+@property (nonatomic, weak) IBOutlet MKMapView *mapView;
 
 @end
 
@@ -28,7 +31,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    
+    [self.mapView addAnnotation:[[PointAnnotation alloc] init]];
     self.userTweetTextView.text = self.userTweetText;
 }
 
@@ -36,6 +39,23 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+#pragma mark - MKMapViewDelegate
+
+- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id<MKAnnotation>)annotation {
+    if ([annotation isKindOfClass:[PointAnnotation class]]) {
+        static NSString *identifier = @"Annotation";
+        MKAnnotationView *view = [mapView dequeueReusableAnnotationViewWithIdentifier:identifier];
+        if (!view) {
+            view = [[MKPinAnnotationView alloc] initWithAnnotation:annotation reuseIdentifier:identifier];
+            view.canShowCallout = YES;
+        } else {
+            view.annotation = annotation;
+        }
+        return view;
+    }
+    return nil;
 }
 
 @end
